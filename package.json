@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.2",
+    "csv": "^6.0.5",
+    "csv-stringify": "^6.0.5",
+    "ethereumjs-abi": "^0.6.8",
+    "papaparse": "^5.3.1",
+    "web3": "^1.7.0"
+  }
+}
