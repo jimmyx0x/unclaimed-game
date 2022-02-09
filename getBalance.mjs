@@ -6,7 +6,7 @@ const web3 = createAlchemyWeb3(
   "https://eth-mainnet.alchemyapi.io/v2/kN-QxA08QeBRHQXiJ_gNSLwTes3IQ4RC"
 );
 
-let blockNum = 14133150;
+let blockNum = 14134150;
 
 const stakingAddr = "0x738E19cBE9f0443772b0CccE45D9Fd8f98057850";
 const contractJson = fs.readFileSync("./abi-staking.json");
