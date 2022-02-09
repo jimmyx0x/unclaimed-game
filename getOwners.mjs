@@ -6,7 +6,7 @@ const web3 = createAlchemyWeb3(
   "https://eth-mainnet.alchemyapi.io/v2/kN-QxA08QeBRHQXiJ_gNSLwTes3IQ4RC"
 );
 
-let blockNum = 14134149;
+let blockNum = 14134150;
 
 const consolesAddr = "0x8ed0e7404675d5c7f5b4f2a829138afcaf53d2ab";
 const contractJson = fs.readFileSync("./abi.json");
